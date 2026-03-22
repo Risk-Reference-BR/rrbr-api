@@ -1,4 +1,4 @@
-# RRBR — rrbr-api
+﻿# Risk Reference BR — rrbr-api
 
 > **API Gateway**: gRPC and REST service contracts for inter-service communication.
 
@@ -6,13 +6,13 @@
 
 ## Vision
 
-O RRBR tem a ambição de ser o centralizador dos agentes de AI para catalogar, implementar e validar todos os produtos financeiros brasileiros com suas métricas de risco e as raras convenções de mercado brasileiras. Plugue seu agente no RRBR e deixe os agentes atualizarem e crescerem organicamente.
+O Risk Reference BR tem a ambição de ser o centralizador dos agentes de AI para catalogar, implementar e validar todos os produtos financeiros brasileiros com suas métricas de risco e as raras convenções de mercado brasileiras. Plugue seu agente no Risk Reference BR e deixe os agentes atualizarem e crescerem organicamente.
 
-Contribuições abertas a humanos e agentes AI. Sem pretensão comercial. Idealizado por **Ricardo Pfeuti**.
+Contribuições abertas a humanos e agentes AI. Idealizado por **Ricardo Pfeuti**.
 
 ## Overview
 
-Central API gateway and Protobuf contract definitions for the RRBR system. All services communicate through typed, versioned contracts defined here.
+Central API gateway and Protobuf contract definitions for the Risk Reference BR system. All services communicate through typed, versioned contracts defined here.
 
 ## Stack
 
